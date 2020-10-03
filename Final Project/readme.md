@@ -51,7 +51,7 @@ Non-functional:
 
 ## Storyboard
 <video controls="controls">
-  <source type="video/mov" src="includes/GreenThumb.mov"></source>
+  <source type="video/mp4" src="includes/GreenThumb.mov"></source>
   <!-- <source type="video/webm" src="filename.webm"></source> -->
   <p>Your browser does not support the video element.</p>
 </video>
