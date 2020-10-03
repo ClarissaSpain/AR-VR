@@ -1,11 +1,11 @@
 # Midterm Presentation
 
 ## Project: Green Thumb
-This will be a VR game. I will mainly be designing for PC VR, but I hope to be able to port the game over to mobileVR. 
+This will be a VR game. I will mainly be designing for PC VR, but I hope to be able to port the game over to mobileVR.
 ## Backstory/inspiration
 I just knew I wanted to create something that included somehow included gardening. 
 ## Timeline
-![Timeline](inlcudes\timeline.png)
+![Timeline](includes\timeline.png)
 ## Functional and Non-Functional Requirements
 System = Game
 
@@ -50,6 +50,11 @@ Non-functional:
 - Maintainability: Maintainable up until Semester completion.
 
 ## Storyboard
+<video controls="controls">
+  <source type="video/mov" src="includes/GreenThumb.mov"></source>
+  <!-- <source type="video/webm" src="filename.webm"></source> -->
+  <p>Your browser does not support the video element.</p>
+</video>
 
 ## Estimate of how long it will take
 Realistically, this game would probably take a couple years, but I am aiming for a 2nd Prototype game for the Final Presentation that should take about 6 weeks. 
