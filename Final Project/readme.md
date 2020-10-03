@@ -5,7 +5,7 @@ This will be a VR game. I will mainly be designing for PC VR, but I hope to be a
 ## Backstory/inspiration
 I just knew I wanted to create something that included somehow included gardening. 
 ## Timeline
-![Timeline](includes\timeline.png)
+![Timeline](includes/timeline.png)
 ## Functional and Non-Functional Requirements
 System = Game
 
