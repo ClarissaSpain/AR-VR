@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>GeoAR.js demo</title>
+    <title>Location</title>
     <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
     <script src="https://unpkg.com/aframe-look-at-component@0.8.0/dist/aframe-look-at-component.min.js"></script>
     <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
@@ -21,7 +21,18 @@
         scale="120 120 120"
         gps-entity-place="latitude: <46.8877312>; longitude: <-114.05557759999999>;"
       ></a-text>
+      <a-box position="0 0.5 0" material="color: pink;">
+        <a-animation attribute="rotation"
+        dur="3000"
+        easing="linear"
+        from="0 0 0"
+        to="360 360 0"
+        repeat="indefinite">
+        
+      </a-animation>
+    </a-box>
       <a-camera gps-camera rotation-reader> </a-camera>
+
     </a-scene>
   </body>
 </html>
