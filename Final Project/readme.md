@@ -50,11 +50,7 @@ Non-functional:
 - Maintainability: Maintainable up until Semester completion.
 
 ## Storyboard
-<video controls="controls">
-  <source type="video/mp4" src="includes/GreenThumb.mov"></source>
-  <!-- <source type="video/webm" src="filename.webm"></source> -->
-  <p>Your browser does not support the video element.</p>
-</video>
+Refer to Video file in Includes folder.
 
 ## Estimate of how long it will take
 Realistically, this game would probably take a couple years, but I am aiming for a 2nd Prototype game for the Final Presentation that should take about 6 weeks. 
